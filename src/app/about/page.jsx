@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <h4 className="text-lg">
-              Hi, my name is Shashanka I'm a fullstack developer specializing in
+              Hi, my name is Shashanka I am a fullstack developer specializing in
               Reactjs , Nextjs and Nodejs .
               i did my under graduation in information science and technology 
             </h4>
