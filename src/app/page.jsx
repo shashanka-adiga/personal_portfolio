@@ -32,7 +32,7 @@ const Homepage = () => {
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">
-            <Link href="/shashanka_res.pdf" className="p-4 rounded-lg ring-1 ring-black bg-black text-white">
+            <Link href="/resume_aug_2024.pdf" className="p-4 rounded-lg ring-1 ring-black bg-black text-white">
               Download CV
             </Link>
             {/* <Link href="" className="p-4 rounded-lg ring-1 ring-black">
